@@ -47,7 +47,7 @@
 		49C6BD871CAB6A67009C12C6 /* tareasCursoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tareasCursoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		49C6BD8B1CAB6A67009C12C6 /* tareasCursoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tareasCursoUITests.swift; sourceTree = "<group>"; };
 		49C6BD8D1CAB6A67009C12C6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		49C6BD991CAB6A8A009C12C6 /* juegoDeMemoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = juegoDeMemoria.playground; path = "../../Semana 2/juegoDeMemoria.playground"; sourceTree = "<group>"; };
+		49C6BD9B1CAB6FBC009C12C6 /* juegoDeMemoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = juegoDeMemoria.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +78,7 @@
 		49C6BD5F1CAB6A66009C12C6 = {
 			isa = PBXGroup;
 			children = (
+				49C6BD9B1CAB6FBC009C12C6 /* juegoDeMemoria.playground */,
 				49C6BD6A1CAB6A66009C12C6 /* tareasCurso */,
 				49C6BD7F1CAB6A67009C12C6 /* tareasCursoTests */,
 				49C6BD8A1CAB6A67009C12C6 /* tareasCursoUITests */,
@@ -99,7 +100,6 @@
 			isa = PBXGroup;
 			children = (
 				49C6BD6B1CAB6A66009C12C6 /* AppDelegate.swift */,
-				49C6BD991CAB6A8A009C12C6 /* juegoDeMemoria.playground */,
 				49C6BD6D1CAB6A66009C12C6 /* ViewController.swift */,
 				49C6BD6F1CAB6A67009C12C6 /* Main.storyboard */,
 				49C6BD721CAB6A67009C12C6 /* Assets.xcassets */,
