@@ -5,6 +5,11 @@ import UIKit
 
 var rango = 0...100
 
+print ("Tarea correspondiente a la semana 2 \nRealizada por Oscar Ortega \n")
+
+//Al no haber quedado claro si cada numero del rango al evaluarse cumpliera con una condicion, se procedio a que cada numero evalue las 4.
+
+
 for i in rango {
     
     if i >= 30 && i <= 40{
@@ -16,7 +21,7 @@ for i in rango {
     if i % 2 == 0{
         print("\(i) es par")
     }
-    if i % 2 != 0{
+    if i % 2 == 1{
         print ("\(i) es impar")
     }
     
