@@ -31,19 +31,19 @@ class Auto {
         var velDigito = 0
         var mensaje = " "
         if velocidad == .Apagado{
-            velDigito = 0
+            velDigito = velocidad.rawValue
             mensaje = "Apagado"
             velocidad = .VelocidadBaja
         }else if velocidad == .VelocidadBaja{
-            velDigito = 20
+            velDigito = velocidad.rawValue
             mensaje = "Velocidad Baja"
             velocidad = .VelocidadMedia
         }else if velocidad == .VelocidadMedia{
-            velDigito = 50
+            velDigito = velocidad.rawValue
             mensaje = "Velocidad media"
             velocidad = .VelocidadAlta
         }else {
-            velDigito = 120
+            velDigito = velocidad.rawValue
             mensaje = "Velocidad alta"
             velocidad = .VelocidadMedia
         }
