@@ -34,6 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4932060C1CB58DB100F89506 /* velocimetroDeAutomovilDigital.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = velocimetroDeAutomovilDigital.playground; sourceTree = "<group>"; };
 		49C6BD681CAB6A66009C12C6 /* tareasCurso.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tareasCurso.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		49C6BD6B1CAB6A66009C12C6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		49C6BD6D1CAB6A66009C12C6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -78,6 +79,7 @@
 		49C6BD5F1CAB6A66009C12C6 = {
 			isa = PBXGroup;
 			children = (
+				4932060C1CB58DB100F89506 /* velocimetroDeAutomovilDigital.playground */,
 				49C6BD9B1CAB6FBC009C12C6 /* juegoDeMemoria.playground */,
 				49C6BD6A1CAB6A66009C12C6 /* tareasCurso */,
 				49C6BD7F1CAB6A67009C12C6 /* tareasCursoTests */,
@@ -486,6 +488,7 @@
 				49C6BD921CAB6A67009C12C6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		49C6BD931CAB6A67009C12C6 /* Build configuration list for PBXNativeTarget "tareasCursoTests" */ = {
 			isa = XCConfigurationList;
@@ -494,6 +497,7 @@
 				49C6BD951CAB6A67009C12C6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		49C6BD961CAB6A67009C12C6 /* Build configuration list for PBXNativeTarget "tareasCursoUITests" */ = {
 			isa = XCConfigurationList;
@@ -502,6 +506,7 @@
 				49C6BD981CAB6A67009C12C6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
